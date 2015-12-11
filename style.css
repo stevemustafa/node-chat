@@ -4,7 +4,7 @@ body {
 }
 body, #entry {
   background: #22252a;
-  color: #eee;
+  color: red; /*#eee;*/
 }
 body, table {
   font-family: DejaVu Sans Mono, fixed; 
